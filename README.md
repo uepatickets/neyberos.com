@@ -1,7 +1,5 @@
 ## The documentation is available online here:
-https://finder.createx.studio/docs/dev-setup.html
-OR
-**Offline**: inside Finder/dist/docs folder
+Loading...
 
 ## To download Figma files which include all design mockups follow the link below:
 https://drive.google.com/drive/folders/1ePZasWCSpat2oeSlqAIuUvZqUBa9cZW1?usp=sharing
